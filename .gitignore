@@ -1,9 +1,1 @@
-.DS_Store
 .vs
-*.log
-explorations
-TODOs.md
-RELEASE_NOTE*.md
-.vscode
-dist
-temp

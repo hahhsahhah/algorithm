@@ -1,8 +1,8 @@
 class Solution {
-    public:
+  
         int longestString(int x, int y, int z) {
             int temp=min(x,y);
-            if(x==0&&y==0)
+            if(x==0&&y==0)沙发电视柜
             {
               return z*2;
             }
